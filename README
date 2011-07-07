@@ -8,3 +8,9 @@ More informations to come here.
 
 #####
 
+Tips on Git:
+
+- Always write messages on your commits, try to summarise everything that changed.
+- Use branches when trying new code
+- Use a Tag to mark down a working version, or a code revision used for a paper/important milestone. (Tags need to be forced sync, look online)
+
